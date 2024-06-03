@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77279452645",
+    "project_id": "mireaprojecthrebto",
+    "storage_bucket": "mireaprojecthrebto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77279452645:android:1ad6cda004679e6d79230c",
+        "android_client_info": {
+          "package_name": "ru.mirea.khrebtovsky.mireaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvARdEPezqdwQ7wKcb5z9x3qyVWvQb89k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

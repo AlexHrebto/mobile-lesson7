@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_data"
+            android:title="Data"
+            android:icon="@drawable/ic_menu_slideshow"
+        />
+        <item
+            android:id="@+id/nav_webview"
+            android:title="Web View"
+            android:icon="@drawable/ic_menu_gallery"
+        />
+        <item
+            android:id="@+id/nav_compass"
+            android:title="compass"
+            android:icon="@drawable/compass"
+            />
+        <item
+            android:id="@+id/nav_camera"
+            android:title="camera"
+            android:icon="@drawable/camera"
+            />
+        <item
+            android:id="@+id/nav_micro"
+            android:title="micro"
+            android:icon="@drawable/microphone"
+            />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile"
+            android:icon="@drawable/profile"
+            />
+        <item
+            android:id="@+id/nav_fragment_file"
+            android:title="File"
+            android:icon="@drawable/file"
+            />
+        <item
+            android:id="@+id/nav_fragment_book"
+            android:title="info from network res"
+            android:icon="@drawable/googleg_disabled_color_18"
+            />
+    </group>
+</menu>

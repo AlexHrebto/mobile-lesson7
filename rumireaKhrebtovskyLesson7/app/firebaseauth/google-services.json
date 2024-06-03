@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376793840994",
+    "project_id": "ru-mirea-khrebtovsky-lesson7",
+    "storage_bucket": "ru-mirea-khrebtovsky-lesson7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376793840994:android:6dd536f5d2161fb9cd403b",
+        "android_client_info": {
+          "package_name": "ru.mirea.khrebtovsky.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRUuQ1dnk4CumC4sbwhlwnMpBd4ab-PQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
